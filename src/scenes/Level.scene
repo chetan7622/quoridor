@@ -1,0 +1,128 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level"
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "e6f13039-a467-4f40-9a9a-8e70a4f50329",
+            "label": "rectangle",
+            "components": [],
+            "x": 685,
+            "y": 281,
+            "scaleX": 1.4290068101049478,
+            "scaleY": 3.1006587341864718,
+            "isFilled": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "b40870f5-52ae-41f2-90f8-56eadd464ed1",
+            "label": "fls",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "false"
+            },
+            "x": 734,
+            "y": 306,
+            "scaleX": 0.01,
+            "scaleY": 0.01,
+            "visible": false
+        },
+        {
+            "type": "Image",
+            "id": "397ebe85-880b-4ff2-bd6f-e0608e0ba19c",
+            "label": "tru",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "true"
+            },
+            "x": 660,
+            "y": 305,
+            "scaleX": 0.01,
+            "scaleY": 0.01,
+            "visible": false
+        },
+        {
+            "type": "Image",
+            "id": "d4157317-62e9-477c-8e8a-6d4c7901dff7",
+            "label": "exit",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "exit"
+            },
+            "x": 688,
+            "y": 398,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "9e848202-a5ec-4066-9443-f2e36762bdf8",
+            "label": "next_icon__1_",
+            "components": [],
+            "texture": {
+                "key": "Next-icon (1)"
+            },
+            "x": 685,
+            "y": 156,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Rectangle",
+            "id": "45d439c7-ec4e-4d3b-b54b-538b55809546",
+            "label": "rectangle_1",
+            "components": [],
+            "x": 688,
+            "y": 156,
+            "scaleX": 1.1849561350311937,
+            "scaleY": 0.28472479419471647,
+            "isFilled": true,
+            "fillColor": "#f8eb23ff",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Text",
+            "id": "7fd157be-2f61-49e1-897e-8a576c11069d",
+            "label": "walls",
+            "scope": "CLASS",
+            "components": [],
+            "x": 605,
+            "y": 137,
+            "text": "Walls:10",
+            "fontSize": "34px",
+            "color": "#191616ff",
+            "backgroundColor": "#f8eb23ff"
+        },
+        {
+            "type": "Text",
+            "id": "c9fd6234-7cd1-4940-b197-8d81862c1f11",
+            "label": "text",
+            "scope": "CLASS",
+            "components": [],
+            "x": 609,
+            "y": 313,
+            "visible": false,
+            "text": "Walls is over !!!",
+            "fontStyle": "bold",
+            "color": "#1b1919ff"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

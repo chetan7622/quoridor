@@ -1,0 +1,63 @@
+{
+    "id": "12e1cdc4-96cd-40da-962f-1ab71e2e09f7",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level2"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "e35f720d-350d-4bb5-94b1-d436024a356f",
+            "label": "bg",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "bg"
+            },
+            "x": 405,
+            "y": 308,
+            "scaleX": 3.5490082758116555,
+            "scaleY": 2.687510778501957,
+            "alpha": 0.1,
+            "alphaTopLeft": 0.1,
+            "alphaTopRight": 0.1,
+            "alphaBottomLeft": 0.1,
+            "alphaBottomRight": 0.1
+        },
+        {
+            "type": "Image",
+            "id": "d6b1bd61-e7b0-4824-8de8-87157e20116f",
+            "label": "xx2",
+            "components": [],
+            "texture": {
+                "key": "xx2"
+            },
+            "x": 413,
+            "y": 139,
+            "scaleX": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "7e37049a-d193-4467-8a65-d1a0ad140e67",
+            "label": "play",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "—Pngtree—new play button 2d and_5522122"
+            },
+            "x": 402,
+            "y": 361,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

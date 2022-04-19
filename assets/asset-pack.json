@@ -1,0 +1,75 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "—Pngtree—new play button 2d and_5522122.png",
+                "type": "image",
+                "key": "—Pngtree—new play button 2d and_5522122"
+            },
+            {
+                "url": "assets/bg.png",
+                "type": "image",
+                "key": "bg"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": [
+                    "assets/audio/done.wav"
+                ],
+                "type": "audio",
+                "key": "done"
+            },
+            {
+                "url": "assets/exit.png",
+                "type": "image",
+                "key": "exit"
+            },
+            {
+                "url": "assets/false.png",
+                "type": "image",
+                "key": "false"
+            },
+            {
+                "url": "assets/images (1).jpeg",
+                "type": "binary",
+                "key": "images (1)"
+            },
+            {
+                "url": "assets/Next-icon (1).png",
+                "type": "image",
+                "key": "Next-icon (1)"
+            },
+            {
+                "url": "assets/player1.png",
+                "type": "image",
+                "key": "player1"
+            },
+            {
+                "url": "assets/player2.png",
+                "type": "image",
+                "key": "player2"
+            },
+            {
+                "url": "assets/true.png",
+                "type": "image",
+                "key": "true"
+            },
+            {
+                "url": "assets/xx2.png",
+                "type": "image",
+                "key": "xx2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
